@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kolyan25lk/bootcamp_ITN/static/css/main.4c6d0263.chunk.css",
+    "main.js": "/kolyan25lk/bootcamp_ITN/static/js/main.cf9df5d6.chunk.js",
+    "main.js.map": "/kolyan25lk/bootcamp_ITN/static/js/main.cf9df5d6.chunk.js.map",
+    "runtime-main.js": "/kolyan25lk/bootcamp_ITN/static/js/runtime-main.a3c0badb.js",
+    "runtime-main.js.map": "/kolyan25lk/bootcamp_ITN/static/js/runtime-main.a3c0badb.js.map",
+    "static/css/2.e0686c58.chunk.css": "/kolyan25lk/bootcamp_ITN/static/css/2.e0686c58.chunk.css",
+    "static/js/2.8848712a.chunk.js": "/kolyan25lk/bootcamp_ITN/static/js/2.8848712a.chunk.js",
+    "static/js/2.8848712a.chunk.js.map": "/kolyan25lk/bootcamp_ITN/static/js/2.8848712a.chunk.js.map",
+    "index.html": "/kolyan25lk/bootcamp_ITN/index.html",
+    "precache-manifest.bbc280aad59f0b2bb70f3be788bc1c17.js": "/kolyan25lk/bootcamp_ITN/precache-manifest.bbc280aad59f0b2bb70f3be788bc1c17.js",
+    "service-worker.js": "/kolyan25lk/bootcamp_ITN/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/kolyan25lk/bootcamp_ITN/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.4c6d0263.chunk.css.map": "/kolyan25lk/bootcamp_ITN/static/css/main.4c6d0263.chunk.css.map",
+    "static/js/2.8848712a.chunk.js.LICENSE.txt": "/kolyan25lk/bootcamp_ITN/static/js/2.8848712a.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/kolyan25lk/bootcamp_ITN/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/kolyan25lk/bootcamp_ITN/static/media/ITN_logo.2f311a05.svg",
+    "static/media/energetics.jpg": "/kolyan25lk/bootcamp_ITN/static/media/energetics.83468281.jpg",
+    "static/media/energy.jpg": "/kolyan25lk/bootcamp_ITN/static/media/energy.34ea2627.jpg",
+    "static/media/HeroBlock.scss": "/kolyan25lk/bootcamp_ITN/static/media/hero-bg.5d86912d.jpg",
+    "static/media/industry.jpg": "/kolyan25lk/bootcamp_ITN/static/media/industry.f58a519c.jpg",
+    "static/media/shid_emozhl_logo.svg": "/kolyan25lk/bootcamp_ITN/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/sity_planing.jpg": "/kolyan25lk/bootcamp_ITN/static/media/sity_planing.9c75db8b.jpg",
+    "static/media/slide-1.jpg": "/kolyan25lk/bootcamp_ITN/static/media/slide-1.05494e5f.jpg",
+    "static/media/slide-2.jpg": "/kolyan25lk/bootcamp_ITN/static/media/slide-2.6a925988.jpg",
+    "static/media/slide-3.jpg": "/kolyan25lk/bootcamp_ITN/static/media/slide-3.f6b33149.jpg",
+    "static/media/slide-4.jpg": "/kolyan25lk/bootcamp_ITN/static/media/slide-4.4f70b1ad.jpg",
+    "static/media/slide-5.jpg": "/kolyan25lk/bootcamp_ITN/static/media/slide-5.4e538524.jpg",
+    "static/media/transport.jpg": "/kolyan25lk/bootcamp_ITN/static/media/transport.53381405.jpg",
+    "static/media/utilisation.jpg": "/kolyan25lk/bootcamp_ITN/static/media/utilisation.a496ce23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c0badb.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.8848712a.chunk.js",
+    "static/css/main.4c6d0263.chunk.css",
+    "static/js/main.cf9df5d6.chunk.js"
+  ]
+}
