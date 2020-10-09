@@ -10,7 +10,7 @@ function AirQuality() {
     const [LocationInfo, setLocationInfo] = useState({
         lng: 31,
         lat: 48.3,
-        zoom: 4.6
+        zoom: 4.6,
     });
 
     useEffect(() => {
